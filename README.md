@@ -1,10 +1,10 @@
 # :credit_card::fire::heavy_check_mark: ccc.js
 
-Card Credit Checker _ for studies _
+Card Credit Checker _for studies_
 
 ---
 
-### UsageExample
+### Usage Example
 
 ```javascript
 const ccc = require("./ccc");
