@@ -1,15 +1,5 @@
-# :credit_card::fire::heavy_check_mark: ccc.js
-
-Card Credit Checker _ for studies _
-
----
-
-### UsageExample
-
-```javascript
 const ccc = require("./ccc");
 
-// Payment Gateway Request Config
 ccc.config({
   url: "http://localhost:3333/pay",
   method: "post",
@@ -43,8 +33,3 @@ async function example() {
 }
 
 example();
-```
-
----
-
-_Old version: https://github.com/br0keh/cc-checker_
