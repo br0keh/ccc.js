@@ -1,0 +1,14 @@
+{
+  "name": "ccc.js",
+  "version": "2.0.0",
+  "description": "Card Credit Check JS",
+  "main": "main.js",
+  "repository": "https://github.com/br0keh/ccc.js",
+  "author": "brokeh",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jquery": "^3.4.1"
+  }
+}
