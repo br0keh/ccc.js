@@ -4,11 +4,19 @@
 
 <p align=center>Credit Card Check in JS</p>
 <p align=center><i align=center>only for studies</i></p>
+<p align=center><i align=center>dont works</i></p>
 
 <b>Buy a working checker in my Telegram</b>
 https://t.me/Br0keh7
----
 
+<b>Buy a working checker in my Telegram</b>
+https://t.me/Br0keh7
+
+<b>Buy a working checker in my Telegram</b>
+https://t.me/Br0keh7
+
+
+---
 
 ### Usage example
 
